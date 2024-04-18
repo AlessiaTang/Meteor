@@ -1,14 +1,14 @@
 
-# Project Title
+# I3 Easy to Use: Build a light-weight application to visualize, analyze, predict, or automate 
 
 This is a mini application that scrape the table information from a wikipedia page, and transform it into a csv file.
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [TechnologiesUsed](#TechnologiesUsed)
-- [Usage](#usage)
-- [License](#license)
+- [Installation](##installation)
+- [TechnologiesUsed](##TechnologiesUsed)
+- [Usage](##usage)
+- [License](##license)
 
 ## Installation
 Open the link below in a web browser:
